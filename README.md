@@ -1,2 +1,2 @@
 # Alpha-OS
-[Version Alpha] An OS made from scratch.
+[Version Alpha] A very simple OS made from scratch.
